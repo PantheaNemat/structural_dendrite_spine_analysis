@@ -11,6 +11,6 @@
 
 # The provided R script can be used to perform spine type classification and to calculate spine clusters. 
 # As we advise to perform multilevel modeling due to the nested data structure of dendrite and spine parameters, 
-# we also included an exmample on a generalised linear model taking the nested data structure into account and how to perform this in R.
+# we also included an example on a generalised linear model taking the nested data structure into account and how to perform this in R.
 # The R script also contains usefule packages to perform these analyses. 
 # Further resources on multilevel modeling can be found in the supplementary material of this publication. 
